@@ -1,4 +1,4 @@
-# Use Node.js version 14 as the base image
+# Use Node.js version 20 as the base image
 FROM node:20
 
 # Set the working directory inside the container
